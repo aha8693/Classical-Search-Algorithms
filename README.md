@@ -1,4 +1,4 @@
-#Classical-Search-Algorithms
+# Classical-Search-Algorithms
 
 This section explores various classical search algorithms, including BFS, DFS, and A*, and their corresponding implementations. 
 
